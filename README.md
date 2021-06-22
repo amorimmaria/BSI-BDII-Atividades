@@ -1,1 +1,1 @@
-# BSI-BDII-Exerc-cios
+# BSI-BDII-Atividades
