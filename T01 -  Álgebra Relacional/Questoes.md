@@ -1,9 +1,9 @@
 **T01 - Revisão de Álgebra Relacional, DDL e DML**
 Considere o Banco de Dados descrito abaixo:
 
-EMPREGADO(<ins>cod_empregado</ins>, nome_empregado, rua, cidade, salario)
-TRABALHA(<ins>**cod_empregado**, **cod_companhia**</ins>)
-COMPANHIA(<ins>cod_companhia</ins>, nome_companhia, cidade_companhia)
+EMPREGADO(<ins>cod_empregado</ins>, nome_empregado, rua, cidade, salario) </br>
+TRABALHA(<ins>**cod_empregado**, **cod_companhia**</ins>) </br>
+COMPANHIA(<ins>cod_companhia</ins>, nome_companhia, cidade_companhia) </br>
 GERENTE(<ins>**cod_empregado**, **cod_companhia**</ins>)
  
 - Para cada uma das seguintes consultas dê a expressão em álgebra relacional:
