@@ -1,4 +1,5 @@
-**T01 - Revisão de Álgebra Relacional, DDL e DML**
+**T01 - Revisão de Álgebra Relacional, DDL e DML** </br>
+
 Considere o Banco de Dados descrito abaixo:
 
 EMPREGADO(<ins>cod_empregado</ins>, nome_empregado, rua, cidade, salario) </br>
