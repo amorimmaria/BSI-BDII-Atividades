@@ -13,6 +13,7 @@ CREATE TABLE empregado(
 );
 
 CREATE TABLE companhia(
+	CNPJ VARCHAR(14),
 	cod_companhia INT,
 	nome_companhia VARCHAR(50),
 	cidade_companhia VARCHAR(50),
